@@ -19,3 +19,6 @@ Faça um programa que leia dois valores inteiros e chame uma função que receba
 
 ## exercicio 6
 Elaborar um programa que leia dois valores inteiros (A e B). Em seguida faça uma função que retorne a soma do dobro dos dois numeros lidos. A função deverá armazenar o dobro de A na propria variável A e o dobro de B na própria variável B.
+
+## exercicio 7
+Crie um programa que contenha uma func¸ao que permita passar por parâmetro dois numeros inteiros A e B. A funão deverá calcular a soma entre estes dois números e armazenar o resultado na variavel A. Esta função não deverá possuir retorno, mas deverá modificar o valor do primeiro parâmetro. Imprima os valores de A e B na função principal.
