@@ -25,3 +25,6 @@ Crie um programa que contenha uma func¸ao que permita passar por parâmetro doi
 
 ## exercicio 8
 Crie um programa que contenha um array de float contendo 10 elementos. Imprima o endereço de cada posição desse array
+
+## exercicio 9
+Crie um programa que contenha uma matriz de float contendo 3 linhas e 3 colunas. Imprima o endereço de cada posição dessa matriz.
