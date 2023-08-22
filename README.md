@@ -16,3 +16,6 @@ Faça um programa que leia 2 valores inteiros e chame uma função que receba es
 
 ## exercicio 5
 Faça um programa que leia dois valores inteiros e chame uma função que receba estes 2 valores de entrada e retorne o maior valor na primeira variavel e o menor valor na segunda variavel. Escreva o conteúdo das 2 variáveis na tela.
+
+## exercicio 6
+Elaborar um programa que leia dois valores inteiros (A e B). Em seguida faça uma função que retorne a soma do dobro dos dois numeros lidos. A função deverá armazenar o dobro de A na propria variável A e o dobro de B na própria variável B.
