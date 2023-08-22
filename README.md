@@ -7,3 +7,6 @@ Escreva um programa que declare um inteiro, um real e um char, e ponteiros para 
 
 ## exercicio 2
 Escreva um programa que contenha duas variaveis inteiras. Compare seus endereços e exiba o maior endereço
+
+## exercicio 3
+Escreva um programa que contenha duas variaveis inteiras. Leia essas variáveis do teclado. Em seguida, compare seus enderec¸os e exiba o conteudo do maior endereço
