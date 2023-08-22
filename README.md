@@ -22,3 +22,6 @@ Elaborar um programa que leia dois valores inteiros (A e B). Em seguida faça um
 
 ## exercicio 7
 Crie um programa que contenha uma func¸ao que permita passar por parâmetro dois numeros inteiros A e B. A funão deverá calcular a soma entre estes dois números e armazenar o resultado na variavel A. Esta função não deverá possuir retorno, mas deverá modificar o valor do primeiro parâmetro. Imprima os valores de A e B na função principal.
+
+## exercicio 8
+Crie um programa que contenha um array de float contendo 10 elementos. Imprima o endereço de cada posição desse array
