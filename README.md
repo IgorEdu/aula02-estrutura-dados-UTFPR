@@ -28,3 +28,6 @@ Crie um programa que contenha um array de float contendo 10 elementos. Imprima o
 
 ## exercicio 9
 Crie um programa que contenha uma matriz de float contendo 3 linhas e 3 colunas. Imprima o endereço de cada posição dessa matriz.
+
+## exercicio 10
+Crie um programa que contenha um array de inteiros contendo 5 elementos. Utilizando apenas aritmetica de ponteiros, leia esse array do teclado e imprima o dobro de cada valor lido.
